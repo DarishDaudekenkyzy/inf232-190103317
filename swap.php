@@ -6,7 +6,7 @@
     function largestSwap($num) {
 	
     }
-    echo "answer is " .letters('goto hell');
+    echo "answer is " .letters('i like cranberries');
 ?>
 
 </body>

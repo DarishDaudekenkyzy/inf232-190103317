@@ -13,7 +13,7 @@ function inches_to_feet($inches) {
           return 0;
       }
   }
-  echo "The answer is " .inches_to_feet(324);
+  echo "The answer is " .inches_to_feet(77);
 ?>
 
 </body>
